@@ -1,5 +1,5 @@
 # Hi, I'm Hazem!
-Here's some fun facts about me :D<br> 📓I'm a current computer engineering student at Texas A&M University! <br><br/> 🔬 Current Backend Engineering Intern for Aggie Nexus <br/><br>📓 I love working on projects that have a user-focus <br/><br>🖥️ I am interested in Software Development, Project management, and Artificial intelligence! <br/><br>📝 I develop games as well! They're one of my favorite pastimes. <br/><br>🎸 I also love rock climbing, digital art, and playing the guitar<br/><br>⭐ Check out my personal website @ https://hazemwebsite.vercel.app/
+Here's some fun facts about me :D<br> 📓I'm a current computer engineering student at Texas A&M University! <br><br/> 🔬 I'm looking for any new graduate SWE/PM roles for Summer 2026! <br/><br>📓 I love working on projects that have a user-focus <br/><br>🖥️ I am interested in Software Development, Project management, and Artificial intelligence! <br/><br>📝 I develop games as well! They're one of my favorite pastimes. <br/><br>🎸 I also love rock climbing, digital art, and playing the guitar<br/><br>⭐ Check out my personal website @ https://hazemwebsite.vercel.app/
 
 
 ## 🌐 Socials:
